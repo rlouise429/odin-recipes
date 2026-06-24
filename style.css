@@ -1,0 +1,49 @@
+Body {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+
+.intro {
+    background: #e7f8fe;
+    padding: 15px;
+    margin: 20px;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    color: #3C0570;
+    padding-left: 35px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #3C0570;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+button {
+    margin: 10px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #3C0570;
+    background: #e7f8fe;
+    border: 0px solid;
+}
+
+.recipes {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+}
+
+a {
+    color: #3C0570;
+}
